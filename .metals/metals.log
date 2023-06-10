@@ -30,3 +30,6 @@ INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (e
 2023.06.05 21:56:43 WARN  no build tool detected in workspace 'H:\workshop\javascript\typescript\nextjs\opentable'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
 Jun. 05, 2023 10:02:35 P.M. org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
 INFO: Unsupported notification method: $/setTrace
+2023.06.06 06:59:13 INFO  Shutting down server
+2023.06.06 06:59:13 INFO  shutting down Metals
+2023.06.06 06:59:13 INFO  Exiting server
