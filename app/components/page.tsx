@@ -87,6 +87,7 @@ const GallagherIndexCalculator = () => {
                     Calculate Gallagher Index
                 </button>
             </div>
+            <div>{calculateGallagherIndex()}</div>
         </div>
     );
 };
