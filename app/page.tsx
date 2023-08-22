@@ -3,8 +3,6 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation'; //'next/router';
-import Form from './forms/page';
-import GallagherIndexCalculator from './components/page';
 
 export default function Home() {
   const router = useRouter()
@@ -76,13 +74,7 @@ export default function Home() {
             {/* CARD */}
           </div>
           {/* CARDS */}
-          <div>
-            <Form />
-          </div>
         </main>
-      </main>
-      <main>
-        <GallagherIndexCalculator />
       </main>
     </main>
   );
